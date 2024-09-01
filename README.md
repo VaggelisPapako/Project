@@ -1,0 +1,2 @@
+# Project
+Developed a high-performance k-Nearest Neighbors (k-NN) graph library in C/C++ for large-scale data. Implemented NN-descent with optimizations like local joins, incremental searches, and sampling to accelerate nearest neighbor searches. Enhanced the algorithm to handle high-dimensional spaces efficiently, achieving a balance between computational speed and accuracy. Integrated GitHub Actions for version control and automated testing.
